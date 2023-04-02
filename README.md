@@ -36,4 +36,4 @@ Example:
 
 
 ## Thanks
-A special thanks for @Sr.51LV3R that create this color scheme and port for waybar
+A special thanks for <a href="https://github.com/Eduardo-de-Oliveira-Santos">Sr.51LV3R</a> that create this color scheme and port for waybar, and for <a href="https://github.com/51LV3R-Theme">51LV3R Theme</a> to has created this color schemes.
