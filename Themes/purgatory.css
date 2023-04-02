@@ -1,0 +1,25 @@
+/*
+*
+* 51LV3R Purgatory palette
+* Maintainer: Sr.silver
+*
+*/
+
+@define-color base #0f0a14;
+@define-color mantle #060508;
+@define-color crust #020203;
+
+@define-color text #b18ed4;
+@define-color subtext0 #a685c7;
+@define-color subtext1 #997bb8;
+
+@define-color surface0 #1c1621;
+@define-color surface1 #241d2b;
+@define-color surface2 #2f2638;
+
+@define-color overlay0 #40334d;
+@define-color overlay1 #514161;
+@define-color overlay2 #4c496e;
+
+@define-color cbze #937aba;
+@define-color witch #ac4cdc;

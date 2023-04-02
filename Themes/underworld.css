@@ -1,0 +1,25 @@
+/*
+*
+* 51LV3R Underworld palette
+* Maintainer: Sr.silver
+*
+*/
+
+@define-color base #121212;
+@define-color mantle #080808;
+@define-color crust #030303;
+
+@define-color text #d3d3d3;
+@define-color subtext0 #c8c8c8;
+@define-color subtext1 #b8b8b8;
+
+@define-color surface0 #222222;
+@define-color surface1 #2b2b2b;
+@define-color surface2 #393939;
+
+@define-color overlay0 #4d4d4d;
+@define-color overlay1 #616161;
+@define-color overlay2 #6e6e6e;
+
+@define-color cbze #937aba;
+@define-color witch #ac4cdc;

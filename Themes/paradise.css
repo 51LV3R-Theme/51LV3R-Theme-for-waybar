@@ -1,0 +1,25 @@
+/*
+*
+* 51LV3R Paradise palette
+* Maintainer: Sr.silver
+*
+*/
+
+@define-color base #e0e0e0;
+@define-color mantle #d7d7d7;
+@define-color crust #c9c9c9;
+
+@define-color text #2e2e2e;
+@define-color subtext0 #383838;
+@define-color subtext1 #474747;
+
+@define-color surface0 #e7e7e7;
+@define-color surface1 #f0f0f0;
+@define-color surface2 #f3f3f3;
+
+@define-color overlay0 #f6f6f6;
+@define-color overlay1 #f8f8f8;
+@define-color overlay2 #fafafa;
+
+@define-color cbze #937aba;
+@define-color witch #ac4cdc;
